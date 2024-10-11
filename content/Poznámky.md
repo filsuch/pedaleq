@@ -5,6 +5,6 @@
 
 
 # Vize
-- digitální effect pedál s mapovatelnými spínači v softwaru [MOD AUDIO](MOD_AUDIO) 
+- digitální effect pedál s mapovatelnými spínači v softwaru [MOD AUDIO](MOD_AUDIO.md) 
 - display pro zobrazení aktuálních sepnutých efektech a pro podrobnější informace o efektu / pedalboardu
 - Konstrukce vytištěná na 3D tiskárně. Přední, zadní a spodní panely z eloxovaného / anodizovaného hliníku
