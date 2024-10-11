@@ -1,1 +1,2 @@
 - [ ] Vybrat napěťové reference pro převodníky (5V a 3.3V)
+- [ ] 
