@@ -7,4 +7,4 @@
 - 8 mono výstupu
 
 
-Oba převodníky potřebuji napájení 5V a 3V.
+Oba převodníky potřebuji napájení 5V a 3V ([napěťové reference](Napěťové_reference)).
